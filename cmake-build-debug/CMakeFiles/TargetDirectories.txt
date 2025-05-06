@@ -1,0 +1,5 @@
+/Users/tolgagokalp/Desktop/Coding/C++/adaptive-geometry-modeling/cmake-build-debug/CMakeFiles/implicitgeometry.dir
+/Users/tolgagokalp/Desktop/Coding/C++/adaptive-geometry-modeling/cmake-build-debug/CMakeFiles/main.dir
+/Users/tolgagokalp/Desktop/Coding/C++/adaptive-geometry-modeling/cmake-build-debug/CMakeFiles/implicitgeometry_testrunner.dir
+/Users/tolgagokalp/Desktop/Coding/C++/adaptive-geometry-modeling/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tolgagokalp/Desktop/Coding/C++/adaptive-geometry-modeling/cmake-build-debug/CMakeFiles/rebuild_cache.dir

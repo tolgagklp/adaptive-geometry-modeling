@@ -1,0 +1,19 @@
+# ninja log v6
+33	125	1746536861857062425	CMakeFiles/implicitgeometry.dir/library/src/AbsImplicitGeometry.cpp.o	abb1f4a7edbe61f5
+34	613	1746536861858639270	CMakeFiles/implicitgeometry.dir/library/src/AbsOperation.cpp.o	9e2dff0e4ac7153b
+36	127	1746536861860635046	CMakeFiles/implicitgeometry.dir/library/src/Rectangle.cpp.o	202f5020023e352c
+35	277	1746536861859141967	CMakeFiles/implicitgeometry.dir/library/src/Circle.cpp.o	4189d0519f1ea57
+1484	1586	1746536863308152620	libimplicitgeometry.dylib	d6ce1a737d2b10d
+35	614	1746536861859534031	CMakeFiles/implicitgeometry.dir/library/src/Difference.cpp.o	9038accf19fcd005
+278	1351	1746536862101738570	CMakeFiles/main.dir/drivers/main.cpp.o	926a7af07ed25aa4
+14	6795	1746536867707417407	CMakeFiles/implicitgeometry_testrunner.dir/library/test/main_test.cpp.o	35b378f996155d8a
+13	1287	1746536867705823196	CMakeFiles/implicitgeometry_testrunner.dir/library/test/AbsImplicitGeometry_test.cpp.o	9dfddc672f0ad5be
+1586	1677	1746536863410025105	main	84f9eae8064457cb
+127	1484	1746536861950900366	CMakeFiles/implicitgeometry.dir/library/src/quadtree.cpp.o	f7b81f56658b4575
+6796	6924	1746536874489505705	implicitgeometry_testrunner	25e9c19b3e6abda7
+14	1344	1746536867706980630	CMakeFiles/implicitgeometry_testrunner.dir/library/test/Rectangle_test.cpp.o	f530d086e0fc1b63
+125	615	1746536861949178630	CMakeFiles/implicitgeometry.dir/library/src/Union.cpp.o	b818a80434f2bf27
+13	1342	1746536867706282398	CMakeFiles/implicitgeometry_testrunner.dir/library/test/Circle_test.cpp.o	4502efd97afc6dff
+36	614	1746536861860005882	CMakeFiles/implicitgeometry.dir/library/src/Intersection.cpp.o	69dca7f678ddb40f
+13	1384	1746536867706547538	CMakeFiles/implicitgeometry_testrunner.dir/library/test/Operation_test.cpp.o	3e4e8c607aaf19df
+15	1517	1746536867708240079	CMakeFiles/implicitgeometry_testrunner.dir/library/test/quadtree_test.cpp.o	65e1998e500cc0

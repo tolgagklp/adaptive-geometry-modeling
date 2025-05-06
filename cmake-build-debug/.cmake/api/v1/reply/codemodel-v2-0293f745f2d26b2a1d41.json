@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "implicitgeometry",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "implicitgeometry::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-implicitgeometry-Debug-f5b6010e71ce513c911e.json",
+					"name" : "implicitgeometry",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "implicitgeometry_testrunner::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-implicitgeometry_testrunner-Debug-c974c882651167cc5b89.json",
+					"name" : "implicitgeometry_testrunner",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-4cda369d467484837f2d.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/tolgagokalp/Desktop/Coding/C++/adaptive-geometry-modeling/cmake-build-debug",
+		"source" : "/Users/tolgagokalp/Desktop/Coding/C++/adaptive-geometry-modeling"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
