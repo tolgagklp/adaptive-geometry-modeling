@@ -12,7 +12,7 @@ with adaptive quadtree subdivision. Outputs can be visualized using ParaView via
 - Modular, testable architecture (Catch2)
 
 ## 📁 Structure
-
+```
 adaptive-geometry-modeling/
 ├── library/
 │   ├── inc/        # Header files (Circle, CSG, etc.)
@@ -22,10 +22,17 @@ adaptive-geometry-modeling/
 ├── test/           # Unit tests
 ├── CMakeLists.txt
 └── README.md
+```
 
 ## 🛠 Build Instructions
 
+```
+mkdir build && cd build
+cmake ..
+make
+./main
 
+```
 
 ## 📊 Visualization
 
