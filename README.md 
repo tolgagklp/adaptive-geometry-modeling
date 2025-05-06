@@ -25,11 +25,13 @@ adaptive-geometry-modeling/
 
 ## 🛠 Build Instructions
 
-```bash
+```
+bash
 mkdir build && cd build
 cmake ..
 make
 ./main
+```
 
 ## 📊 Visualization
 
