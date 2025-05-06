@@ -14,7 +14,7 @@ add_library(implicitgeometry SHARED ${LIBRARY_SOURCE_FILES} ${HEADER_FILES})
 
 target_include_directories(implicitgeometry PUBLIC
         ${PROJECT_SOURCE_DIR}/library/inc
-        ${PROJECT_SOURCE_DIR}/external/catch
+        ${PROJECT_SOURCE_DIR}/external
 )
 
 add_executable(main drivers/main.cpp ${HEADER_FILES})
