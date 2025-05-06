@@ -36,7 +36,13 @@ make
 
 ## 📊 Visualization
 
-Open `quadtree.vtk` in ParaView to see the adaptive spatial structure.
+Open `quadtree.vtk` in ParaView to see the adaptive spatial structure:
+
+![Quadtree Example](images/quadtree_example.png)
+
+For a quick ASCII preview:
+
+![CSG ASCII Preview](images/ascii_art.png)
 
 ## Example Geometry Composition
 
