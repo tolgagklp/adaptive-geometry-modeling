@@ -55,7 +55,9 @@ This setup models:
 Final geometry:
 
 ((Circle ∩ Square) ∪ Bar) \ Inner Circle
+
 Or in plain ASCII:
+
 ((Circle AND Square) OR Bar) MINUS Inner Circle
 
 ## Author
